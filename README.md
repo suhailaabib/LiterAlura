@@ -12,4 +12,36 @@
 * Mostrar autores vivos em um determinado ano;
 * Listar livros em um idioma específico;
 
+## Ferramentas Utilizadas:
+
+* Java 21
+* Spring Boot
+* Spring Data JPA
+* PostgreSQL
+* Gutendex API (Api externa dos dados)
+* Maven
+
+## Algumas Interfaces executáveis
+
+ ### Opções do Menu:
+
+  <img src="https://github.com/suhailaabib/LiterAlura/blob/main/Imagens/Menu.png" alt="Menu">
+
+ ### Cadastro de Livro:
+
+  <img src="https://github.com/suhailaabib/LiterAlura/blob/main/Imagens/Cadastro.png" alt="Cadastro">
+
+ ### Mostra em um ano específico os autores vivos:
+
+  <img src="https://github.com/suhailaabib/LiterAlura/blob/main/Imagens/Vivo.png" alt="Autores Vivos">
+
+### Livros de um idioma escolhido:
+
+   <img src="https://github.com/suhailaabib/LiterAlura/blob/main/Imagens/Idioma.png" alt="Idioma">
+
+   
+  
+
+
+
   
