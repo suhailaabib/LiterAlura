@@ -39,9 +39,7 @@
 
    <img src="https://github.com/suhailaabib/LiterAlura/blob/main/Imagens/Idioma.png" alt="Idioma">
 
-   
-  
+## OBS.: 
 
+* Precisará adicionar o seu nome de usuário e senha do banco de dados do PostgreSQL. Que se cria na instalação do banco de dados na sua máquina.
 
-
-  
