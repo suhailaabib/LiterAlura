@@ -41,5 +41,5 @@
 
 ## OBS.: 
 
-* Precisará adicionar o seu nome de usuário e senha do banco de dados do PostgreSQL. Que se cria na instalação do banco de dados na sua máquina.
+* Precisará adicionar o seu nome de usuário e senha do banco de dados PostgreSQL, no arquivo application.properties, dentro da pasta resources. Cria esses dados na instalação do banco de dados na sua máquina.
 
